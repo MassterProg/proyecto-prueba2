@@ -1,1 +1,3 @@
 hola buenas tardes
+estamos haciendo cambios 
+para verlos en el git con el comando git show nombre archivo
